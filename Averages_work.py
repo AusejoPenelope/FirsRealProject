@@ -6,5 +6,7 @@ df.head()
 
 df.describe()
 
+
 #Let's see what the min value is for everyone
 df['Value'].min() 
+
